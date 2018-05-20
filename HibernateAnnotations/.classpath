@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/cglib-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/hibernate-core-4.3.8.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/javassist-3.18.1-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/javax.persistence.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/lucene-core-4.10.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/Java/Hibernate/finallibs/xml-apis-1.3.03.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
